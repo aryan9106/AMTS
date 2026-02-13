@@ -107,9 +107,8 @@ A comprehensive Django-based bus management system with **real-time tracking**, 
 
 ### 📧 Emergency Contact Configuration
 Current emergency recipients:
-- **Primary Contact**: vaibhavmevada796@gmail.com
-- **Test Contact**: cipaha2099@gxuzi.com  
-- **Emergency Contact**: paresh07suva@gmail.com
+- **Primary Contact**: thakararyan9106@gmail.com 
+- **Emergency Contact**: thakararyan916@gmail.com
 - **AMTS Helplines**: emergency@amts.gov.in, control.room@amts.gov.in
 
 ### 🧪 Testing Emergency System
